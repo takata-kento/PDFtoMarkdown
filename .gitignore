@@ -1,0 +1,5 @@
+/output/*
+!/output/.gitkeep
+/pdfsource/*
+!/pdfsource/.gitkeep
+
